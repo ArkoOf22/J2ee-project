@@ -4,8 +4,6 @@ if(session.getAttribute("name")==null){
 }
 %>
 
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
